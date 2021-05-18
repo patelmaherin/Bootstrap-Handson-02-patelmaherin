@@ -1,0 +1,22 @@
+body {
+    background: #f1f1f1;
+  }
+  
+  .card.product .btn {
+    bottom: 1.5rem;
+    max-width: 80%;
+  
+  }
+  
+  @media (max-width: 768px) {
+    .card-container {
+      margin-bottom: 2rem;
+    }
+  }
+  
+  h5{
+  font-weight:bold;
+  }
+  
+  
+  
